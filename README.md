@@ -5,5 +5,5 @@ Design standard cell layouts in gpdk45nm technology.
 Verify DRC and LVS checks using Cadence Layout Suite and Assura.
 Analyze the impact of different multipliers (1X, 2X, 4X, 8X) on performance and other parameters.
 # Tools Used
-Technology: gpdk45nm /n
+Technology: gpdk45nm
 EDA Tools: Cadence Layout Suite, Assura
